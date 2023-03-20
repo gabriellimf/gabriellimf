@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node, Nest and React**
 
-- 💬 Ask me about **Express, Nest and SQL**
+- 💬 Ask me about **Express, Bulma, Node and SQL**
 
 - 📫 How to reach me **gabriellimombrinii@gmail.com**
 
