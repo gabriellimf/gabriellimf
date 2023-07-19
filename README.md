@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gabimombrini" target="blank"><img src="https://img.shields.io/twitter/follow/gabimombrini?logo=twitter&style=for-the-badge" alt="gabimombrini" /></a> </p>
 
-- 🔭 I’m currently working on **Star Two Sistemas**
+- 🔭 I’m currently working on **Create67**
 
 - 🌱 I’m currently learning **Node, Nest and React**
 
