@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Create67**
 
-- 🌱 I’m currently learning **Java, Node, Nest and React**
+- 🌱 I’m currently learning **Spring, Angular, Node, Nest and React**
 
-- 💬 Ask me about **Express, Java, Node and SQL**
+- 💬 Ask me about **Java, PHP, Javascript and SQL**
 
 - 📫 How to reach me **gabriellimombrinii@gmail.com**
 
