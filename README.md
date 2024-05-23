@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Create67**
 
-- 🌱 I’m currently learning **Spring, Angular, Node, Next and Rails**
+- 🌱 I’m currently learning **Golang and Kubernets**
 
-- 💬 Ask me about **Java, PHP, Ruby, Javascript and SQL**
+- 💬 Ask me about **Java, PHP, Node, Javascript/Typescript and SQL**
 
 - 📫 How to reach me **gabriellimombrinii@gmail.com**
 
