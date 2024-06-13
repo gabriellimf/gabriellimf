@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang and Kubernets**
 
-- 💬 Ask me about **Java, PHP, Node, Javascript/Typescript and SQL**
+- 💬 Ask me about **Golang, PHP, Node, Typescript and SQL**
 
 - 📫 How to reach me **gabriellimombrinii@gmail.com**
 
