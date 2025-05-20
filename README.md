@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Semantix**
 
-- 🌱 I’m currently learning **Golang and Kubernets**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Golang, Node, Typescript and SQL**
 
