@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriellimf&label=Profile%20views&color=0e75b6&style=flat" alt="gabriellimf" /> </p>
 
-- 🔭 I’m currently working on **Runflow**
+- 🔭 I’m currently working on **Runflow and more projects**
 
 - 🌱 I’m currently learning **Generative AI & Software Architecture**
 
