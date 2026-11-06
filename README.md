@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabrielli</h1>
 <h3 align="center">A passionate software engineer from Brazil/ES</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriellimf&label=Profile%20views&color=0e75b6&style=flat" alt="gabriellimf" /> </p>
-
 - 🔭 I’m currently working on **Runflow and more projects**
 
 - 🌱 I’m currently learning **Generative AI & Software Architecture**
